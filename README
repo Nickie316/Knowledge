@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 * 1º) Margem nos inputs do forms no arquivo UserAdmin(Frontend) não são aplicados. 
    Verificado com o arquivo do prof mas não encontrei nenhuma diferença (foi acrescentado até cógigos da próxima aula e não resolvel) ;-; */
 
 * 2º) Mensagens não aparecem quando tenta salvar um usúario faltando algum dado ;-;
    Pelo o que vefifiquei havia um erro no arquivo user do Backend onde era responsável pelas mensagens caso houvesse erro no cadastro porem foi corrigo, porém ainda as mensagens não aparecem ._. *
+=======
+1º) Margem nos inputs do forms no arquivo UserAdmin(Frontend) não são aplicados.    
+
+      Verificado com o arquivo do prof mas não encontrei nenhuma diferença (foi acrescentado até códigos da próxima aula e não resolveu) ;-;
+      
+2º) Mensagens não aparecem quando tenta salvar um usuário faltando algum dado ;-;
+
+     Pelo o que verifiquei havia um erro no arquivo user do Backend onde era responsável pelas mensagens caso houvesse erro no cadastro porem foi corrido, porém ainda as mensagens não aparecem ._.
+
+>>>>>>> 4c62efe96fd6a4d742bd3ff488a8fa73cfcf24c3
