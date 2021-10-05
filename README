@@ -1,6 +1,5 @@
-<h3>
+#h3
    <i>1º) Margem nos inputs do forms no arquivo UserAdmin(Frontend) não são aplicados. Verificado com o arquivo do prof mas não encontrei nenhuma diferença (foi acrescentado até cógigos da próxima aula e não resolvel) ;-; </i>
-</h3>
 
 <h3>
    <i>2º) Mensagens não aparecem quando tenta salvar um usúario faltando algum dado ;-;</i>
