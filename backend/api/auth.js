@@ -27,6 +27,7 @@ module.exports = app => {
          iat: now, // Emitido em
          exp: now + (60 * 60 * 24 * 3) // 3 Dias
             //Expiração   1H   1D   Dias Expi..
+         // exp: now + 10 // 10 Segundos
       }
 
       res.json({
